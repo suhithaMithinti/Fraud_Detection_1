@@ -1,2 +1,2 @@
-print("Initial statement")
+print("Initial statement modified")
 print("Second statement")
