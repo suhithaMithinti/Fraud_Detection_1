@@ -1,2 +1,2 @@
 print("Initial statement modified")
-print("Second statement")
+print("Second statement modiified in main")
