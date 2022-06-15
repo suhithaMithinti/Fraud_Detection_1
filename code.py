@@ -1,2 +1,3 @@
 print("Initial statement modified")
-print("Second statement in master")
+print("Second statement")
+
